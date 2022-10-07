@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  efcoredockercompose:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "3203:80"
