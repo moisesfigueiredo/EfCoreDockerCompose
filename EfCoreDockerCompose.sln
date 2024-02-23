@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreDockerCompose", "EfCoreDockerCompose.csproj", "{D25FDAF6-E2CF-4F31-9628-D6CD29F2DBF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreDockerCompose", "EfCoreDockerCompose.csproj", "{D25FDAF6-E2CF-4F31-9628-D6CD29F2DBF6}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{61513A05-F695-4202-A990-9516479DC93F}"
 EndProject
